@@ -1,4 +1,4 @@
 # Youtube-Project
-Project where I recreated a simple version of a youtube homepage 
+Designed an example of a YouTube homepage using HTML and responsive CSS design.
 https://davida123777.github.io/Youtube-Project/
 
